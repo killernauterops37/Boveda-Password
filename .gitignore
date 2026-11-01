@@ -1,0 +1,5 @@
+Data/
+test-output/
+*.vault
+*.vault.previous
+*.tmp
